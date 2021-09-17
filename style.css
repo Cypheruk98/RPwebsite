@@ -54,6 +54,10 @@
     background-color: rgb(233, 159, 23);
 } 
 
+.orange2 {
+    color: orange;
+}
+
 #whitetext {
     color: white;
 } 
@@ -132,12 +136,6 @@ body > #bg {
     align-items: center;
 }
 
-#column {
-    height: auto;
-    display: flex;
-    justify-content:space-evenly;
-    align-items:center;
-}
 
 #navbar a {
     color: white;
