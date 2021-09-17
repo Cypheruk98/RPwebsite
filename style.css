@@ -72,6 +72,7 @@ h1 {
     font:caption;
     font-weight: 800;
     font-style:oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
@@ -89,21 +90,21 @@ h1 {
 
 p{
     color: white;
-    font-family: fantasy;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     font-style: italic;
     font-weight: 400;
 }
 h2 {
     color: white;
-    font-family: fantasy;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
     font-style: italic;
     font-weight: 700;
 }
 h3 {
     color: rgb(233, 159, 23);
-    font-family: fantasy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     font-style: italic;
     font-weight: 700;
